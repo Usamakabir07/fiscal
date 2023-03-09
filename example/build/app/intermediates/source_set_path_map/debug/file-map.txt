@@ -1,0 +1,13 @@
+com.cloud.fiscaling_example.app-jetified-window-1.0.0-beta04-0 /Users/usamacloud/.gradle/caches/transforms-3/30c9f9e36f76ec2d5a473df3d33e33ff/transformed/jetified-window-1.0.0-beta04/res
+com.cloud.fiscaling_example.app-jetified-window-java-1.0.0-beta04-1 /Users/usamacloud/.gradle/caches/transforms-3/5f7f04b14475a5177c81c0aebd35a1c0/transformed/jetified-window-java-1.0.0-beta04/res
+com.cloud.fiscaling_example.app-core-1.6.0-2 /Users/usamacloud/.gradle/caches/transforms-3/9d13f608411ebd1b864ae55bb53a8fcc/transformed/core-1.6.0/res
+com.cloud.fiscaling_example.app-jetified-annotation-experimental-1.1.0-3 /Users/usamacloud/.gradle/caches/transforms-3/eaa9ca6d8aeab4c8cbd4c273a15e4d4e/transformed/jetified-annotation-experimental-1.1.0/res
+com.cloud.fiscaling_example.app-debug-4 /Users/usamacloud/StudioProjects/fiscaling/example/android/app/src/debug/res
+com.cloud.fiscaling_example.app-main-5 /Users/usamacloud/StudioProjects/fiscaling/example/android/app/src/main/res
+com.cloud.fiscaling_example.app-pngs-6 /Users/usamacloud/StudioProjects/fiscaling/example/build/app/generated/res/pngs/debug
+com.cloud.fiscaling_example.app-resValues-7 /Users/usamacloud/StudioProjects/fiscaling/example/build/app/generated/res/resValues/debug
+com.cloud.fiscaling_example.app-rs-8 /Users/usamacloud/StudioProjects/fiscaling/example/build/app/generated/res/rs/debug
+com.cloud.fiscaling_example.app-mergeDebugResources-9 /Users/usamacloud/StudioProjects/fiscaling/example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.cloud.fiscaling_example.app-mergeDebugResources-10 /Users/usamacloud/StudioProjects/fiscaling/example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.cloud.fiscaling_example.app-merged_res-11 /Users/usamacloud/StudioProjects/fiscaling/example/build/app/intermediates/merged_res/debug
+com.cloud.fiscaling_example.app-packaged_res-12 /Users/usamacloud/StudioProjects/fiscaling/example/build/fiscaling/intermediates/packaged_res/debug
